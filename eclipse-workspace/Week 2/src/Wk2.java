@@ -12,7 +12,7 @@ public class Wk2 {
 	boolean expression2 = false && false;
 		System.out.println(expression2);
 
-    boolean expression3 = true && (false ||true);
+    	boolean expression3 = true && (false ||true);
 		System.out.println(expression3);
 		
 	boolean expression4 = false || (true && false);
